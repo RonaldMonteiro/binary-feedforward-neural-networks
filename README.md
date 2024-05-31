@@ -1,4 +1,4 @@
-## Redes neurais feedforward para classificação de câncer de mama
+## Rede neural feedforward para classificação de câncer de mama
 
 ### Descrição
 
